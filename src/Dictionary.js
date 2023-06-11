@@ -15,6 +15,7 @@ export default function Dictionary() {
     console.log(apiUrl);
   }
 
+  //documentation: dictionaryapi.dev
   function handleKeywordChange(event) {
     setKeyword(event.target.value);
   }
