@@ -15,7 +15,6 @@ export default function Photos(props) {
                     className="img-fluid"
                   />
                 </a>
-                ;
               </div>
             );
           })}
